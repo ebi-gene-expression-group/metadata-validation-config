@@ -4,7 +4,8 @@
       "10xv3",
       "10xv2",
       "drop-seq",
-      "seq-well"
+      "seq-well",
+      "10x5prime"
     ],
     "all": [
       "10xv3",
@@ -12,7 +13,8 @@
       "drop-seq",
       "smart-seq2",
       "smart-like",
-      "seq-well"
+      "seq-well",
+      "10x5prime"
     ]
   },
   "singlecell_experiment_type": [
