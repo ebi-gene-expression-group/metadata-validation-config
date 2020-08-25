@@ -3,14 +3,16 @@
     "droplet": [
       "10xv3",
       "10xv2",
-      "drop-seq"
+      "drop-seq",
+      "seq-well"
     ],
     "all": [
       "10xv3",
       "10xv2",
       "drop-seq",
       "smart-seq2",
-      "smart-like"
+      "smart-like",
+      "seq-well"
     ]
   },
   "singlecell_experiment_type": [
