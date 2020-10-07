@@ -40,7 +40,8 @@
   "optional_singlecell_idf_comments": [
     "EAAdditionalAttributes",
     "EAExpectedClusters",
-    "HCALastUpdateDate"
+    "HCALastUpdateDate",
+    "EABatchEffect"
   ],
     "required_idf_fields": [
     "Experimental Factor Name",
