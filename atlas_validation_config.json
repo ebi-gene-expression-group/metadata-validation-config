@@ -77,7 +77,7 @@
   "singlecell_raw_data_sdrf_fields": [
     "fastq_uri",
     "sra_uri"
-  ]
+  ],
   "ae_experiment_types": {
     "microarray": [
       "antigen profiling",
