@@ -53,7 +53,6 @@
     "library_selection",
     "library_source",
     "library_strand",
-    "fastq_uri",
     "library construction",
     "single cell isolation"
   ],
@@ -74,6 +73,10 @@
     "cdna read",
     "cell barcode read",
     "umi barcode read"
+  ],
+  "raw_data_download_sdrf_fields": [
+    "fastq_uri",
+    "sra_uri"
   ],
   "ae_experiment_types": {
     "microarray": [
