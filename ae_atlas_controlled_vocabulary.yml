@@ -168,6 +168,9 @@ atlas_property_types:
     - tissue supergroup
     - progenitor cell type
     - host organism
+    - immunophenotype
+    - metastatic site
+    - cause of death
 
 # ArrayExpress eligible experiment types.
 arrayexpress_experiment_types:
