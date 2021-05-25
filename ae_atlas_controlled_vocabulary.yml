@@ -218,3 +218,7 @@ arrayexpress_experiment_types:
     - RNA-seq of non coding RNA from single cells
     - microRNA profiling by high throughput sequencing
     - whole chromosome random sequencing
+    - spatial transcriptomics by high-throughput sequencing
+    - scATAC-seq
+    - CUT&RUN
+    - exome sequencing
