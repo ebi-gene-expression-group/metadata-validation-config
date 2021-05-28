@@ -80,6 +80,14 @@
     "index1",
     "index2"
   ],
+  "optional_droplet_numerical_values": [
+    "umi barcode size",
+    "umi barcode offset",
+    "cell barcode size",
+    "cell barcode offset",
+    "cdna barcode size",
+    "cdna barcode offset"
+  ],
   "raw_data_download_sdrf_fields": [
     "fastq_uri",
     "sra_uri"
