@@ -85,8 +85,10 @@
     "umi barcode offset",
     "cell barcode size",
     "cell barcode offset",
-    "cdna barcode size",
-    "cdna barcode offset"
+    "cdna read size",
+    "cdna read offset",
+    "sample barcode size",
+    "sample barcode offset"
   ],
   "raw_data_download_sdrf_fields": [
     "fastq_uri",
