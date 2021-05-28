@@ -74,6 +74,12 @@
     "cell barcode read",
     "umi barcode read"
   ],
+  "allowed_read_values": [
+    "read 1",
+    "read 2",
+    "index 1",
+    "index 2"
+  ],
   "raw_data_download_sdrf_fields": [
     "fastq_uri",
     "sra_uri"
