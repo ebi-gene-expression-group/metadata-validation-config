@@ -80,7 +80,7 @@
     "index1",
     "index2"
   ],
-  "optional_droplet_numerical_values": [
+  "optional_droplet_numerical_fields": [
     "umi barcode size",
     "umi barcode offset",
     "cell barcode size",
